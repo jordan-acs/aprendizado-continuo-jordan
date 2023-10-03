@@ -27,3 +27,21 @@ A linguagem humana é repleta de figuras de linguagem, como ironia e metáforas,
 ---
 
 Esses exemplos vívidos destacam a urgência da necessidade contínua de aprendizado dos mecanismos de processamento de linguagem natural (NLP) no mundo dos chatbots. A fluidez da linguagem e as mudanças constantes na forma como os seres humanos se comunicam são desafios intrincados que não podem ser subestimados. A capacidade de interpretar gírias, captar nuances de significado e reconhecer figuras de linguagem são marcos cruciais para a eficácia dos chatbots e sua aceitação na sociedade.
+
+## Solução Proposta
+
+Em resposta aos desafios enfrentados na adaptação contínua dos chatbots às mudanças na linguagem e na comunicação humana, foi proposto a implementação de um sistema de web crawler avançado para coletar e analisar postagens diárias de diversos usuários nas redes sociais. Esse sistema servirá como uma fonte rica de dados que permitirá uma compreensão em tempo real de como as pessoas se comunicam atualmente na internet.
+
+Essa proposto tem como objetivo trazer os seguintes benefícios:
+
+**Coleta de Dados em Tempo Real:** O web crawler será projetado para buscar e coletar postagens de diferentes plataformas de redes sociais, como Twitter, Facebook, Instagram e Reddit, em tempo real.
+
+**Análise Semântica:** Os dados coletados serão submetidos a uma análise semântica avançada, usando técnicas de Compreensão de Linguagem Natural (NLU). Isso incluirá a detecção de gírias, identificação de mudanças de significado e interpretação de figuras de linguagem.
+
+**Acompanhamento de Tendências:** O sistema será capaz de identificar e rastrear tendências emergentes na comunicação online, incluindo o uso de novas palavras, hashtags e tópicos populares.
+
+**Atualização de Chatbots:** Com base nas informações coletadas e nas análises realizadas, os chatbots podem ser atualizados continuamente para melhor refletir a linguagem e as preferências de comunicação atuais dos usuários.
+
+<img src="https://github.com/jordan-acs/aprendizado-continuo-jordan/blob/main/fluxogramaP9.png">
+
+### Explicação da arquitetura
