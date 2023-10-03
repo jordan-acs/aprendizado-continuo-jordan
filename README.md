@@ -42,6 +42,31 @@ Essa proposto tem como objetivo trazer os seguintes benefícios:
 
 **Atualização de Chatbots:** Com base nas informações coletadas e nas análises realizadas, os chatbots podem ser atualizados continuamente para melhor refletir a linguagem e as preferências de comunicação atuais dos usuários.
 
-<img src="https://github.com/jordan-acs/aprendizado-continuo-jordan/blob/main/fluxogramaP9.png">
+<img src="https://github.com/jordan-acs/aprendizado-continuo-jordan/blob/main/fluxogramaS9.png">
 
 ### Explicação da arquitetura
+
+* **Bloco 1** : Representa a API Central da Aplicação, que irá realizar a conexão entre o chatbox, o base de dados e o Web Crawler.
+
+* **Bloco 2**: Web Crawler responsável por realizar a busca por postagem nas mais diversas plataformas de comunicação entre comunidades digitais, obtendo dessa forma uma base de dados sempre atualizada com as diversas gírias e expresões que podem surgir e/ou se modificar ao longo do tempo.
+
+* **Bloco 3**: Software de NLU responsável por interpretar os significados por trás de cada postagem, o que o usuário quis dizer com isso e como cada elemento constrói o raciocinío em torno daquela sentença.
+
+* **Bloco 4**: Data Lake responsável por fornecer dados de treinamento para o chat bot, que estará diarimanete atualizando e otimizando sua base de dados com base nas novas tendências linguísticas que surgem nas redes socias.
+
+## Conclusão
+
+Neste artigo, exploramos a crescente importância da inteligência artificial, especialmente no contexto dos chatbots, na transformação da nossa forma de comunicação e interação com as máquinas. Desde o seu surgimento, os chatbots têm se estabelecido como parceiros de conversação cada vez mais sofisticados, permitindo uma comunicação mais eficaz e personalizada em diversos setores.
+
+No entanto, identificamos desafios cruciais que ainda precisam ser superados para que os chatbots possam continuar a evoluir e oferecer experiências de usuário cada vez melhores. Estes desafios estão intrinsecamente ligados à necessidade de aprendizado contínuo dos mecanismos de processamento de linguagem natural (NLP), uma vez que a linguagem humana é fluida e em constante mudança.
+
+Exploramos exemplos concretos desses desafios, incluindo gírias e jargões, a evolução dos significados das palavras e figuras de linguagem. Esses exemplos destacaram a complexidade da linguagem humana e a necessidade de sistemas de IA, como chatbots, compreenderem essas nuances.
+
+Em resposta a esses desafios, propusemos a implementação de um sistema de web crawler avançado para coletar e analisar postagens diárias nas redes sociais. Esse sistema, alimentado por técnicas de processamento de linguagem natural, serviria como uma fonte rica de dados em tempo real, permitindo uma compreensão mais profunda de como as pessoas se comunicam na internet. Isso, por sua vez, contribuiria para o aprendizado contínuo dos chatbots, permitindo que eles se adaptem às mudanças na linguagem e na cultura online.
+
+Em última análise, a IA e os chatbots estão desempenhando um papel crucial na evolução da nossa interação com a tecnologia. A capacidade de compreender e se adaptar à linguagem humana em constante mutação é fundamental para garantir que essas tecnologias continuem a melhorar nossas vidas e aprimorar nossas experiências digitais. À medida que avançamos nessa jornada, é essencial que continuemos a investir em pesquisa e desenvolvimento para enfrentar os desafios da comunicação em evolução e aproveitar todo o potencial da inteligência artificial.
+
+## Referências
+
+[Referência ](https://dl.acm.org/doi/abs/10.1145/3411564.3411647)
+
